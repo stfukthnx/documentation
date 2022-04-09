@@ -269,4 +269,4 @@ Now we created our two files, we can publish the Kerberos container to balena (o
 
 Once finished you should see following message, and on the dashboard you should see your devices updating (Yes you can add multiple devices to an application). You're ready ;)
 
-{{< figure src="balena-push.png" alt="Once created you can push the Kerberos Opensource agent to your Balenca Cloud app." caption="Once created you can push the Kerberos Opensource agent to your Balenca Cloud app." class="stretch">}}
+{{< figure src="balena-push.png" alt="Once created you can push the Kerberos Opensource agent to your Balenca Cloud app." caption="Once created you can push the Kerberos Opensource agent to your Balena Cloud app." class="stretch">}}
